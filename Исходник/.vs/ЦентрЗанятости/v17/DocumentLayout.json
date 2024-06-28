@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\aboutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\aboutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\rabotodatelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\rabotodatelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\rabotodatelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\rabotodatelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\sqlqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\sqlqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\aboutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\aboutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\sqlqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}|\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438.csproj|solutionrelative:\u0446\u0435\u043D\u0442\u0440\u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\sqlqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:57:25.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabotodatelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:01:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountantForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "ViewState": "AQIAAI0EAAAAAAAAAAAWwKIEAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:15:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabotodatelForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\RabotodatelForm.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAjwKYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:59:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:57:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountantForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AccountantForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:15:39.206Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:21:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AdminForm.cs",
+              "ViewState": "AQIAAEsBAAAAAAAAAAAlwFoBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:58:32.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\ClientForm.cs",
+              "ViewState": "AQIAAJ0CAAAAAAAAAAAjwLoCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:57:32.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQueryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:56:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutProgram.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\AboutProgram.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:08:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQueryForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\early access\\\u0418\u0441\u0445\u043E\u0434\u043D\u0438\u043A\\\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "RelativeToolTip": "\u0426\u0435\u043D\u0442\u0440\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\\SQLQueryForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:59:27.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77F97D60-3F7E-40C5-BA08-6FE2BD3E1129}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ЦентрЗанятости</RootNamespace>
+    <AssemblyName>ЦентрЗанятости</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.118.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.118.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutProgram.Designer.cs">
+      <DependentUpon>AboutProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountantForm.Designer.cs">
+      <DependentUpon>AccountantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RabotodatelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RabotodatelForm.Designer.cs">
+      <DependentUpon>RabotodatelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQLQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLQueryForm.Designer.cs">
+      <DependentUpon>SQLQueryForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutProgram.en.resx">
+      <DependentUpon>AboutProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutProgram.resx">
+      <DependentUpon>AboutProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountantForm.resx">
+      <DependentUpon>AccountantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RabotodatelForm.resx">
+      <DependentUpon>RabotodatelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SQLQueryForm.resx">
+      <DependentUpon>SQLQueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-magnifying-glass-8336772.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-compass-998887.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Выполнить.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-clear-1632708.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-done-8683794.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-clean-up-11623802.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ЗагрузитьСкрипт.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-open-folder-3748664.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-save-6941682.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-windows-226771.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-logout-4043198.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-shutdown-3541892.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-text-size-9824122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-themes-1982571.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-done-86837941.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-save-69416821.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-question-189665.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-windows-2267711.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-logout-40431981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-shutdown-35418921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-text-size-98241221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-themes-19825711.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-windows-2267712.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-logout-40431982.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-shutdown-35418922.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-sql-file-2266870.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-text-size-98241222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-themes-19825712.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-windows-2267713.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-logout-40431983.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-shutdown-35418923.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-text-size-98241223.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-themes-19825713.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-clock-2784459.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-edit-3602041.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

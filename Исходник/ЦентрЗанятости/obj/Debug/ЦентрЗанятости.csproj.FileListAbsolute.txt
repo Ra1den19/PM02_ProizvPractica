@@ -1,0 +1,86 @@
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe.config
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.xml
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.xml
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AccountantForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AdminForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.ClientForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Форма_входа.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Properties.Resources.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.GenerateResource.cache
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.SQLQueryForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AboutProgram.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.RabotodatelForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗан.0A5FE5F2.Up2Date
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\itextsharp.dll
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nicit\OneDrive\Рабочий стол\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\itextsharp.xml
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe.config
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.xml
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.xml
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AboutProgram.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AccountantForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AdminForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.ClientForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Форма_входа.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Properties.Resources.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.RabotodatelForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.SQLQueryForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.GenerateResource.cache
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗан.0A5FE5F2.Up2Date
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\en\ЦентрЗанятости.resources.dll
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AboutProgram.en.resources
+C:\Users\nicit\OneDrive\Рабочий стол\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\en\ЦентрЗанятости.resources.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe.config
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\ЦентрЗанятости.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\en\ЦентрЗанятости.resources.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.xml
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\bin\Debug\System.Data.SQLite.xml
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AboutProgram.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AccountantForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AdminForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.ClientForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Форма_входа.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.Properties.Resources.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.RabotodatelForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.SQLQueryForm.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.AboutProgram.en.resources
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.GenerateResource.cache
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\en\ЦентрЗанятости.resources.dll
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.csproj.CopyComplete
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.exe
+C:\Users\nicit\OneDrive\Рабочий стол\practic\early access\ЦентрЗанятости\ЦентрЗанятости\obj\Debug\ЦентрЗанятости.pdb
